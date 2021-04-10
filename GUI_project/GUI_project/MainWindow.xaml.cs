@@ -34,7 +34,8 @@ namespace GUI_project
             if (price <= 0)
             {
                 MessageBox.Show("คำเตือน!! : ราคาสินค้าไม่สามารถเป็น 0 หรือ ติดลบ ได้" + "\n" + "คำแนะนำ : โปรดใส่ราคาสินค้าใหม่");
-            } else if (income < 0)
+            } 
+            else if (income < 0)
             {
                 MessageBox.Show("คำเตือน!! : รายได้ไม่สามารถ ติดลบ ได้" + "\n" + "คำแนะนำ : โปรดใส่รายได้ใหม่");
             }
@@ -66,7 +67,6 @@ namespace GUI_project
                 }
             }
         }
-
     }
 }
  
