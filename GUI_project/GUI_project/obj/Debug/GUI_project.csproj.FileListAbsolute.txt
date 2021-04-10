@@ -1,0 +1,15 @@
+E:\2-01-Progamming\C#\GUI_project\GUI_project\bin\Debug\GUI_project.exe.config
+E:\2-01-Progamming\C#\GUI_project\GUI_project\bin\Debug\GUI_project.exe
+E:\2-01-Progamming\C#\GUI_project\GUI_project\bin\Debug\GUI_project.pdb
+E:\2-01-Progamming\C#\GUI_project\GUI_project\obj\Debug\GUI_project.csprojAssemblyReference.cache
+E:\2-01-Progamming\C#\GUI_project\GUI_project\obj\Debug\MainWindow.g.cs
+E:\2-01-Progamming\C#\GUI_project\GUI_project\obj\Debug\App.g.cs
+E:\2-01-Progamming\C#\GUI_project\GUI_project\obj\Debug\GUI_project_MarkupCompile.cache
+E:\2-01-Progamming\C#\GUI_project\GUI_project\obj\Debug\GUI_project_MarkupCompile.lref
+E:\2-01-Progamming\C#\GUI_project\GUI_project\obj\Debug\MainWindow.baml
+E:\2-01-Progamming\C#\GUI_project\GUI_project\obj\Debug\GUI_project.g.resources
+E:\2-01-Progamming\C#\GUI_project\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+E:\2-01-Progamming\C#\GUI_project\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+E:\2-01-Progamming\C#\GUI_project\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+E:\2-01-Progamming\C#\GUI_project\GUI_project\obj\Debug\GUI_project.exe
+E:\2-01-Progamming\C#\GUI_project\GUI_project\obj\Debug\GUI_project.pdb
